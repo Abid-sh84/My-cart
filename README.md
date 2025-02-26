@@ -62,10 +62,3 @@ Contributions are what make the open-source community an amazing place to learn,
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📞 Contact
-
-Abid Shah - [LinkedIn](https://www.linkedin.com/in/mohd-abid-shaikh-a3738328b/)
-
-Project Link: [My Cart](https://github.com/Abid-sh84/My-cart)
-
